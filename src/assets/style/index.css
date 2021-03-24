@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  .underline-active {
+    box-shadow: 0 -3px 0 0 #f05830 inset;
+  }
+
+  .title-shadow {
+    text-shadow: 3px 1px 7px #f05830;
+  }
+
+  .lottie-wrapper div svg {
+    height: 600px !important;
+  }
+}
