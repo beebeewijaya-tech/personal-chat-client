@@ -2,6 +2,8 @@
 
 Hi! It's my project **personal-chatting-system** for client. If you want to check ont the backend code, go to my another repo by clicking [here]("https://gitlab.com/3ee-/personal-chat-server")
 
+![Chat Website](chat.png)
+
 ## How to run this project
 
 ```bash
